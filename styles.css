@@ -49,6 +49,10 @@ a {
   padding: 1.5rem 0.9rem 3rem;
 }
 
+img {
+  width: 6rem;
+}
+
 @media only screen and (max-width: 900px) {
   .logo {
     font-size: 3.59rem;
@@ -58,4 +62,13 @@ a {
     width: 21rem;
     height: 15rem;
   }
+
+  .content {
+    margin: 0;
+  }
+
+  nav {
+    padding: 0.3rem;
+  }
+
 }
