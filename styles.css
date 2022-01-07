@@ -54,6 +54,7 @@ img {
 }
 
 footer {
+  position: fixed;
   color: white;
   padding: 0.5rem;
 }
